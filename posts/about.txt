@@ -1,0 +1,7 @@
+This is a site meant to demo the capabilities of [yurt](https://github.com/nichwch/yurt).
+
+To do this, I got a pdf of the first chapter of Understanding Media by Marshall McLuhan, then asked an AI to generate plain text from the pdf, then fed it into Yurt to generate this site. The AI did an OK-ish job, but there are probably errors, so don't use this as an authoritative resource on McLuhan. 
+
+Yurt was not built for books. I had to manually edit the creation dates so that the posts would be ordered by page, and many sentences are cut off between pages (as they would be in a book). Nevertheless, I think this does a decent job at illustrating how others can use Yurt for their ideas.
+
+Click on paragraphs to see other paragraphs from other pages that are related. To understand how Yurt does this, you can check out [this](https://blog.nicholaschen.io/posts/What%20is%20Yurt.txt) post.
